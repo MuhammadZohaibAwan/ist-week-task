@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+        margin-right:20px;
+}
+
+
+
+
+#navBar > ul{
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    display: inline-block;
+}
+
+.navLink {
+    padding: 10px;
+    border-right : 2px solid grey;
+    border-bottom : 1px solid grey;
+    width: 250px;
+
+}
+
+.JS-intro-section{
+    display: inline-block;
+    
+    position: absolute;
+    margin-top: 50px;
+    margin-right:20px;
+    
+    
+}
+
+
+.firstSection-js{
+    display: inline-block;
+}
+
+.listPara{
+    margin-left: 60px;
+}
+
+
+.main-section{
+    display: inline-block;
+    margin-left: 325px;
+    position: absolute;
+    top: 350px;
+
+}
+
+.toKnow{
+    margin-left: 50px;
+}
+    
+    
+.main-section-hello{
+    display: inline-block;
+    position: absolute;
+    left: 325px;
+    top: 800px ;
+}
+
+.grey-card{
+    width: 600px;
+    height: 50px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}
+
+
+.main-section-variable{
+       display: inline-block;
+    position: absolute;
+    left: 325px;
+    top: 1025px ;
+}
+    
+.main-section-decVariable{
+    position: absolute;
+    left: 325px;
+    top: 1270px;
+}    
+
+.varBox{
+    width: 600px;
+    height: 20px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}
+
+.main-section-varScope{
+     position: absolute;
+    left: 325px;
+    top: 1850px;
+}
+    
+.scopeBox{
+     width: 600px;
+    height: 20px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}    
+    
+
+.globalVariable{
+    position: absolute;
+    left: 325px;
+    top: 2200px;
+}
+    
+
+.const{
+     position: absolute;
+    left: 325px;
+    top: 2350px;
+}
+
+
+.constBox{
+     width: 600px;
+    height: 20px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}
+
+
+
+
+
+.dataTypes{
+    
+    position: absolute;
+    left: 325px;
+    top: 2850px;
+}
+
+
+.orbitList{
+    list-style: circle;
+}
+
+.listPad{
+    padding: 10px 0px 10px 60px ;
+}
+
+
+
+.boolSection{
+    
+   position: absolute;
+    left: 325px;
+    top: 3300px;
+}
+
+.bolBox{
+        width: 600px;
+    height: 20px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}
+
+
+.bigBolbox{
+    width: 600px;
+    height: 40px;
+    background-color: #F7F7F7;
+    padding: 20px;
+}
